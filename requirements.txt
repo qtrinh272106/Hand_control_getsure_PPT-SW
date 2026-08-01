@@ -1,0 +1,8 @@
+mediapipe==0.10.30
+opencv-python==4.10.0.84
+pyautogui==0.9.54
+scikit-learn==1.9.0
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+seaborn==0.13.2
